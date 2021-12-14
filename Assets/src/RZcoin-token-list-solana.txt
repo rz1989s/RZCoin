@@ -1,16 +1,11 @@
 {
       "chainId": 101,
-      "address": "H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
-      "symbol": "OOGI",
-      "name": "OOGI",
-      "decimals": 9,
-      "logoURI": "https://oogi.com/icon.png",
+      "address": "C57GUQaD4qJcUpQJWJuzz9zQ8ySQuEsfuksFhV2xyhxq",
+      "symbol": "RZC",
+      "name": "RZCOIN",
+      "decimals": 6,
+      "logoURI": "https://www.arweave.net/sYJSbvonKqAQtAJ-E4gJABplVNCeBr-PWUImPhf_kY4?ext=png",
       "extensions": {
-        "coingeckoId": "oogi",
-        "discord": "https://discord.gg/oogi",
-        "serumV3Usdc": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
-        "telegram": "https://t.me/oogicoin",
-        "twitter": "https://twitter.com/oogicoin",
-        "website": "https://oogi.com/"
+        "discord": "https://discord.gg/zs4W37BUSt",
       }
     },
