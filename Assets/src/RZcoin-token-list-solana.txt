@@ -1,0 +1,16 @@
+{
+      "chainId": 101,
+      "address": "H7Qc9APCWWGDVxGD5fJHmLTmdEgT9GFatAKFNg6sHh8A",
+      "symbol": "OOGI",
+      "name": "OOGI",
+      "decimals": 9,
+      "logoURI": "https://oogi.com/icon.png",
+      "extensions": {
+        "coingeckoId": "oogi",
+        "discord": "https://discord.gg/oogi",
+        "serumV3Usdc": "ANUCohkG9gamUn6ofZEbnzGkjtyMexDhnjCwbLDmQ8Ub",
+        "telegram": "https://t.me/oogicoin",
+        "twitter": "https://twitter.com/oogicoin",
+        "website": "https://oogi.com/"
+      }
+    },
