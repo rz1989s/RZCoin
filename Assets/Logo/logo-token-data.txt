@@ -1,0 +1,33 @@
+{
+  "mint": "B8nX1BD8GjNucQV7SDxeJqDPhkKxrXrQiMNKbw8dA9jq",
+  "updateAuthority": "9gFTByoawNgJFB1psDgN5WqyUebJacqeL8Avmr1GChY9",
+  "creators": [
+    {
+      "address": "4xESs1McQbwhXhWjpVBZ7Tb6gXNqH7grVbwTKZNjjk6V",
+      "verified": 1,
+      "share": 0
+    },
+    {
+      "address": "5Bmkfdh1cgq6gYYpqhvpvDvrKygbkZ4zf5xb8wjLb97k",
+      "verified": 0,
+      "share": 25
+    },
+    {
+      "address": "AXXmoL5amGQkhVr1aBbBAA25uhHUqZtSmTtXr2yAKbVi",
+      "verified": 0,
+      "share": 25
+    },
+    {
+      "address": "78d3qFvHhiKSSmmgT3pqs1n7wYHPTHL3zTuRKBTcHxi1",
+      "verified": 0,
+      "share": 25
+    },
+    {
+      "address": "3oFMCKX4UAagQRyr9PnzWZhhZHcqyEVHPdqaFysc1R9m",
+      "verified": 0,
+      "share": 25
+    }
+  ],
+  "primarySaleHappened": 1,
+  "isMutable": 1
+}
